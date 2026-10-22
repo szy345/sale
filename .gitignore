@@ -1,0 +1,10 @@
+node_modules/
+public/
+data/
+dist/
+licensing/private-key.pem
+licensing/issued/
+*.log
+.env
+.DS_Store
+Thumbs.db

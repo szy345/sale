@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "host": "0.0.0.0",
+  "shopName": "xxx",
+  "shopPhone": "门店电话",
+  "shopAddress": "门店地址",
+  "publicBaseUrl": "http://192.168.1.100:3000",
+  "tokenDays": 7
+}

@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "host": "0.0.0.0",
+  "shopName": "xxx",
+  "shopPhone": "",
+  "shopAddress": "",
+  "publicBaseUrl": "",
+  "tokenDays": 7
+}

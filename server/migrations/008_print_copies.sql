@@ -1,0 +1,1 @@
+ALTER TABLE print_templates ADD COLUMN copies INTEGER NOT NULL DEFAULT 1;
